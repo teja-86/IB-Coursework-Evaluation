@@ -99,3 +99,14 @@ This repository contains the source code for the IB Coursework Evaluation web ap
    npm run build
 
    ```
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/YourFeature`.
+3. Make your changes and commit them: `git commit -m 'Add Your Feature'`.
+4. Push to the branch: `git push origin feature/YourFeature`.
+5. Open a Pull Request.
+
